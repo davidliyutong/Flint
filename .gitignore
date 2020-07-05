@@ -1,0 +1,6 @@
+
+*.param
+*.gz
+core/.DS_Store
+test/bpnn_V2/iris_test.csv
+test/bpnn_V2/iris_training.csv
